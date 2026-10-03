@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "gram | Coffee Shop"
+  },
+  "brand": {
+    "name": "gram"
+  },
+  "navigation": [
+    { "label": "Home", "href": "#home" },
+    { "label": "About", "href": "#about" },
+    { "label": "Menu", "href": "#menu" },
+    { "label": "Hours", "href": "#hours" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "hero": {
+    "kicker": "Coffee Shop",
+    "title": "Welcome to gram",
+    "subtitle": "Default landing page structure. Replace this text with your final brand message.",
+    "cta": {
+      "label": "View Menu",
+      "href": "#menu"
+    }
+  },
+  "about": {
+    "title": "About gram",
+    "description": "Use this section to describe your coffee shop story, sourcing, and atmosphere."
+  },
+  "menu": {
+    "title": "Featured Drinks",
+    "items": [
+      {
+        "name": "Espresso",
+        "description": "Rich and bold single shot.",
+        "price": "$3.00"
+      },
+      {
+        "name": "Flat White",
+        "description": "Velvety milk over double espresso.",
+        "price": "$4.50"
+      },
+      {
+        "name": "Pour Over",
+        "description": "Clean and aromatic seasonal beans.",
+        "price": "$5.00"
+      }
+    ]
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "schedule": [
+      { "day": "Monday - Friday", "time": "07:00 - 18:00" },
+      { "day": "Saturday", "time": "08:00 - 18:00" },
+      { "day": "Sunday", "time": "08:00 - 16:00" }
+    ]
+  },
+  "contact": {
+    "title": "Visit Us",
+    "address": "123 Coffee Street, Your City",
+    "phone": "+00 000 000 000",
+    "email": "hello@example.com"
+  },
+  "social": [
+    { "label": "Instagram", "href": "#" },
+    { "label": "Facebook", "href": "#" }
+  ],
+  "footer": {
+    "note": "© 2026 gram. All rights reserved."
+  }
+}
